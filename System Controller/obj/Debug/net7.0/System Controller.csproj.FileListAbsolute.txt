@@ -1,0 +1,19 @@
+/home/kema/git/School/Distributed/Microservices/System Controller/obj/Debug/net7.0/System Controller.csproj.AssemblyReference.cache
+/home/kema/git/School/Distributed/Microservices/System Controller/obj/Debug/net7.0/System Controller.GeneratedMSBuildEditorConfig.editorconfig
+/home/kema/git/School/Distributed/Microservices/System Controller/obj/Debug/net7.0/System Controller.AssemblyInfoInputs.cache
+/home/kema/git/School/Distributed/Microservices/System Controller/obj/Debug/net7.0/System Controller.AssemblyInfo.cs
+/home/kema/git/School/Distributed/Microservices/System Controller/obj/Debug/net7.0/System Controller.csproj.CoreCompileInputs.cache
+/home/kema/git/School/Distributed/Microservices/System Controller/bin/Debug/net7.0/System Controller
+/home/kema/git/School/Distributed/Microservices/System Controller/bin/Debug/net7.0/System Controller.deps.json
+/home/kema/git/School/Distributed/Microservices/System Controller/bin/Debug/net7.0/System Controller.runtimeconfig.json
+/home/kema/git/School/Distributed/Microservices/System Controller/bin/Debug/net7.0/System Controller.dll
+/home/kema/git/School/Distributed/Microservices/System Controller/bin/Debug/net7.0/System Controller.pdb
+/home/kema/git/School/Distributed/Microservices/System Controller/bin/Debug/net7.0/MQTTnet.dll
+/home/kema/git/School/Distributed/Microservices/System Controller/obj/Debug/net7.0/System Controller.csproj.CopyComplete
+/home/kema/git/School/Distributed/Microservices/System Controller/obj/Debug/net7.0/System Controller.dll
+/home/kema/git/School/Distributed/Microservices/System Controller/obj/Debug/net7.0/refint/System Controller.dll
+/home/kema/git/School/Distributed/Microservices/System Controller/obj/Debug/net7.0/System Controller.pdb
+/home/kema/git/School/Distributed/Microservices/System Controller/obj/Debug/net7.0/System Controller.genruntimeconfig.cache
+/home/kema/git/School/Distributed/Microservices/System Controller/obj/Debug/net7.0/ref/System Controller.dll
+/home/kema/git/School/Distributed/Microservices/System Controller/bin/Debug/net7.0/MQTTLib.dll
+/home/kema/git/School/Distributed/Microservices/System Controller/bin/Debug/net7.0/MQTTLib.pdb

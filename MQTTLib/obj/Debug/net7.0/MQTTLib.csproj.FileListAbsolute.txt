@@ -1,0 +1,12 @@
+/home/kema/git/School/Distributed/Microservices/MQTTLib/obj/Debug/net7.0/MQTTLib.csproj.AssemblyReference.cache
+/home/kema/git/School/Distributed/Microservices/MQTTLib/obj/Debug/net7.0/MQTTLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/kema/git/School/Distributed/Microservices/MQTTLib/obj/Debug/net7.0/MQTTLib.AssemblyInfoInputs.cache
+/home/kema/git/School/Distributed/Microservices/MQTTLib/obj/Debug/net7.0/MQTTLib.AssemblyInfo.cs
+/home/kema/git/School/Distributed/Microservices/MQTTLib/obj/Debug/net7.0/MQTTLib.csproj.CoreCompileInputs.cache
+/home/kema/git/School/Distributed/Microservices/MQTTLib/bin/Debug/net7.0/MQTTLib.deps.json
+/home/kema/git/School/Distributed/Microservices/MQTTLib/bin/Debug/net7.0/MQTTLib.dll
+/home/kema/git/School/Distributed/Microservices/MQTTLib/bin/Debug/net7.0/MQTTLib.pdb
+/home/kema/git/School/Distributed/Microservices/MQTTLib/obj/Debug/net7.0/MQTTLib.dll
+/home/kema/git/School/Distributed/Microservices/MQTTLib/obj/Debug/net7.0/refint/MQTTLib.dll
+/home/kema/git/School/Distributed/Microservices/MQTTLib/obj/Debug/net7.0/MQTTLib.pdb
+/home/kema/git/School/Distributed/Microservices/MQTTLib/obj/Debug/net7.0/ref/MQTTLib.dll

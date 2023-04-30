@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7J60Ag40HGZJF7GTQ4LO82x/+yTEtkfpGW/ApyW+Ul5vimfRnvw+L5UCn96lKpNbh0A71f2Bh5jOqAVjL7nd4g==",
+  "success": true,
+  "projectFilePath": "/home/kema/git/School/Distributed/Microservices/Server/Server.csproj",
+  "expectedPackageFiles": [
+    "/home/kema/.nuget/packages/mqttnet/4.2.0.706/mqttnet.4.2.0.706.nupkg.sha512",
+    "/home/kema/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

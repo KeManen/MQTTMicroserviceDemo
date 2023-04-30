@@ -1,0 +1,19 @@
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/bin/Debug/net7.0/Hardware Abstraction
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/bin/Debug/net7.0/Hardware Abstraction.deps.json
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/bin/Debug/net7.0/Hardware Abstraction.runtimeconfig.json
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/bin/Debug/net7.0/Hardware Abstraction.dll
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/bin/Debug/net7.0/Hardware Abstraction.pdb
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/bin/Debug/net7.0/MQTTnet.dll
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/bin/Debug/net7.0/MQTTLib.dll
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/bin/Debug/net7.0/MQTTLib.pdb
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/obj/Debug/net7.0/Hardware Abstraction.csproj.AssemblyReference.cache
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/obj/Debug/net7.0/Hardware Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/obj/Debug/net7.0/Hardware Abstraction.AssemblyInfoInputs.cache
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/obj/Debug/net7.0/Hardware Abstraction.AssemblyInfo.cs
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/obj/Debug/net7.0/Hardware Abstraction.csproj.CoreCompileInputs.cache
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/obj/Debug/net7.0/Hardware Abstraction.csproj.CopyComplete
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/obj/Debug/net7.0/Hardware Abstraction.dll
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/obj/Debug/net7.0/refint/Hardware Abstraction.dll
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/obj/Debug/net7.0/Hardware Abstraction.pdb
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/obj/Debug/net7.0/Hardware Abstraction.genruntimeconfig.cache
+/home/kema/git/School/Distributed/Microservices/Hardware Abstraction/obj/Debug/net7.0/ref/Hardware Abstraction.dll
